@@ -1,0 +1,20 @@
+body {
+    background-image: linear-gradient(to right, red, yellow);
+  }
+  h1 {
+    color: yellow;
+  }
+  p {
+    color: green;
+  }
+    .black-border {
+        border: 5px solid green;
+  }
+.lettertype { 
+    font-size: xx-large;
+    font-family: cursive;
+}
+  #green-background {
+    background-image: linear-gradient(to bottom right, green, black);
+}
+  }
